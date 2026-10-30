@@ -1,0 +1,2 @@
+sys
+german_nouns.lookup
